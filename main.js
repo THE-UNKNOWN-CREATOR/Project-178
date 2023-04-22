@@ -1,7 +1,7 @@
 let latitude = 22.7868542, longitude = 88.3643296;
 
 // Initializing Mapbox
-mapboxgl.accessToken = 'pk.eyJ1IjoiYXBvb3J2ZWxvdXMiLCJhIjoiY2ttZnlyMDgzMzlwNTJ4a240cmEzcG0xNyJ9.-nSyL0Gy2nifDibXJg4fTA';
+mapboxgl.accessToken = "pk.eyJ1Ijoic2FnYXJpa2EyMSIsImEiOiJjbGducGkwenUwZHF0M2Nxa2lnZXVvODQ3In0.76kApR4gKyMRJfvTWcy4Wg";
 
 var map = new mapboxgl.Map({
 	container: 'map',
